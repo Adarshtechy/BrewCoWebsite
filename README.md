@@ -18,7 +18,15 @@ It includes HTML, CSS, JavaScript, and static assets like images and icons to cr
 ## 📁 Project Structure
 Brew-Co/
 
-├─ Css/ — stylesheets
+├─ Css/
+    ├──about.css
+    ├──contact.css
+    ├──gallery.css
+    ├──home.css
+    ├──menu.css
+    ├──order.css
+    ├──reservation.css
+    ├──style.css
 
 ├─ js/ — JavaScript scripts
 
