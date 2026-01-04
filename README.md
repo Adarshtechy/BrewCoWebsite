@@ -19,20 +19,62 @@ It includes HTML, CSS, JavaScript, and static assets like images and icons to cr
 Brew-Co/
 
 ├─ Css/
+
     ├──about.css
+    
     ├──contact.css
+    
     ├──gallery.css
+    
     ├──home.css
+    
     ├──menu.css
+    
     ├──order.css
+    
     ├──reservation.css
+    
     ├──style.css
 
-├─ js/ — JavaScript scripts
+├─ js/ 
 
-├─ images/ — image assets
+    ├──about.js
+    
+    ├──contact.js
+    
+    ├──gallery.js
+    
+    ├──home.js
+    
+    ├──main.js
+    
+    ├──menu.js
+    
+    ├──order.js
+    
+    ├──reservation.js
 
-├─ Html/ — html pages
+├─ images/ 
+
+    ├──gallery/
+    
+    ├── image assets
+
+├─ Html/ 
+
+    ├──about.html
+    
+    ├──contact.html
+    
+    ├──gallery.html
+    
+    ├──index.html
+    
+    ├──menu.html
+    
+    ├──order.html
+    
+    ├──reservation.html
 
 └─ README.md — project documentation
 
