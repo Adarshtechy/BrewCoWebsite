@@ -1,4 +1,4 @@
-## 🍺 Brew & Co
+## 🍺 Brew & Co Website
 
 ### ☕ A Stylish Coffee Shop Website
 
@@ -17,7 +17,7 @@ It includes HTML, CSS, JavaScript, and static assets like images and icons to cr
 
 ## 📁 Project Structure
 ```
-Brew-Co/
+BrewCoWebsite/
 ├─ Css/
 │     ├──about.css    
 │     ├──contact.css    
@@ -64,8 +64,8 @@ Brew-Co/
 ### ✨ Clone this repository
 
 ```bash
-git clone https://github.com/Adarshtechy/Brew-Co.git
-cd Brew-Co
+git clone https://github.com/Adarshtechy/BrewCoWebsite.git
+cd BrewCoWebsite
 ```
 ### 📥 Open Locally
 
